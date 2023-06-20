@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">biblioMB</string>
+    <string name="GoLogin">Iniciar Sesion</string>
+    <string name="login">Ingresar</string>
+    <string name="logout">Cerrar sesion</string>
+    <string name="OlvidoClave">Olvidaste tu contraseña?</string>
+    <string name="iraLogin">Ya tienes una cuenta? Inicia sesion</string>
+    <string name="goRegistro">Registrarse</string>
+    <string name="back">Volver</string>
+    <string name="usuario">Usuario</string>
+    <string name="clave">Contraseña</string>
+    <string name="info">Informacion</string>
+    <string name="ir_libros">Ver/Gestionar Libros</string>
+    <string name="ir_reservas">Ver mis reservas</string>
+    <string name="ir_perfil">Gestionar perfil</string>
+    <string name="bienvenida">Bienvenido/a</string>
+    <string name="seccionLibros">Seccion libros</string>
+    <string name="seccionPerfil">Perfil</string>
+    <string name="enviarCorreo">Enviar</string>
+    <string name="seccionReservas">Mis reservas</string>
+    <string name="contacto">Haz click aqui</string>
+    <string name="tituloOlvido">Olvido de clave</string>
+    <string name="infoOlvido">Escribe el email asociado a esta cuenta</string>
+    <string name="update">Actualizar</string>
+    <string name="updateUsuario">Deseas cambiar tu nombre de usuario?</string>
+    <string name="updateClave">Deseas cambiar tu contraseña?</string>
+    <string name="gestionarLibro">Gestionar libro</string>
+    <string name="titulo">Biblioteca popular Dr MANUEL BELGRANO</string>
+    <string name="texto_info">Nuestra biblioteca se especializa en dejar recuerdos inmemorables en los lectores, si quieres contactarnos...</string>
+    <string name="reservar">Reservar</string>
+    <string name="eliminarReserva">Eliminar reserva</string>
+    <string name="alertaValidaUsuario">ALERTA DE SEGURIDAD</string>
+    <string name="boton_validar">Validar</string>
+    <string name="confirmacion">Se han enviado los pasos a tu email para restablecer la clave.</string>
+    <string name="tituloValidarUsuario">Para continuar por favor, vuelve a ingresar tu usuario y clave</string>
+
+</resources>
